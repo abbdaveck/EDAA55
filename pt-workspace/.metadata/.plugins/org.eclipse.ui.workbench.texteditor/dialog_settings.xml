@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="t = new Turtle(rw, xStart, yStart);"/>
+		<list key="findhistory">
+			<item value="t = new Turtle(rw, xStart, yStart);"/>
+			<item value="&#x0D;&#x0A;        t.forward(5);&#x0D;&#x0A;        t.left(90);&#x0D;&#x0A;        t.forward(1);&#x0D;&#x0A;        boolean broken = false;&#x0D;&#x0A;        while (!m.atExit(t.g"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+C:\Users\david\Documents\LTH\Programmering - EDAA55\pt-workspace\.metadata\.plugins\org.eclipse.jdt.core
+4084394101.index
+1741444052.index
+1914818206.index
+2841194117.index
+3626879992.index
+1882440615.index
+953468411.index
+1163008635.index
+2181848519.index
+1865797976.index
+3709279313.index
+3129716673.index
+3907759731.index
+1622796828.index
+1897850525.index

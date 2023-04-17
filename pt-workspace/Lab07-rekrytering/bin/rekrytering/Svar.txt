@@ -1,0 +1,12 @@
+1: Öppna projektet Lab07 och studera filen Applicant.java som är skriven för att kunna
+lagra data om en ansökande. Vad innehåller klassen för attribut? Vad ska skickas in till
+konstruktorn, när den anropas, och varför? Finns det något i klassen du måste implementera för att den ska bli komplett? (du ska inte implementera något nu, utan svara bara på
+frågorna)
+Svar: När du kallar på funktionen sätter den den lokala variablen name till var parametern name har för värde
+
+4:
+Om den sökande har U på någon av kurserna kommer det att lagras som heltalsvärdet
+noll internt i vårt program. Kan du se att konstruktorn i klassen Applicant redan har kod
+som fixar detta? På vilka rader hittar du det som tolkar betygen och översätter dem till
+heltalsvärden? Vad heter attributet i vilket heltalsbetygen ligger lagrade?
+Svar: På rad 24 i Applicant.java kollar den om strängen är U och då sätter den betyget till 0
